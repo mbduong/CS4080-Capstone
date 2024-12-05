@@ -1,6 +1,6 @@
 # CS4080-Capstone-Project
-Mojo A:
-\nMelody Duong
-\nKenneth Hung
-\nAidan Kumar
-\nAndrew Valdez
+Mojo A:  
+Melody Duong  
+Kenneth Hung  
+Aidan Kumar  
+Andrew Valdez  
